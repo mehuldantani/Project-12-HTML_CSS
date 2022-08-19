@@ -6,6 +6,10 @@
     font-family: Montserrat;
 }
 
+body{
+    background-color: #fdfeff;
+}
+
 .nav{
     padding-left: 150px;
     padding-top: 50px;
